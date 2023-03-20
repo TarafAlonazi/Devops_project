@@ -1,5 +1,6 @@
 package com.example.demo.entity;
 
+
 public class employee {
     
     private int empid;
